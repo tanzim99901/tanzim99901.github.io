@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanzim99901.github.io/sitemap.xml
